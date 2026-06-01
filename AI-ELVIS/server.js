@@ -78,3 +78,4 @@ async function askAI() {
   document.getElementById("answer").innerHTML =
     data.answer || data.error;
 }
+<bash>ai-elvis start</bash>
